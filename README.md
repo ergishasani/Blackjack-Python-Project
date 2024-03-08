@@ -1,7 +1,3 @@
-Certainly! Here's a longer description for the Blackjack Python project:
-
----
-
 # Blackjack Python Project
 
 Welcome to the Blackjack Python project! In this repository, you'll find a fully-functional Python implementation of the popular card game Blackjack. Whether you're a seasoned player or new to the game, this project offers an engaging and immersive Blackjack experience.
